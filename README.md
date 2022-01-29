@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Program runs entirely on loalhost so for running the project please first clone the project on your system.
+### Program runs entirely on localhost so for running the project please first clone the project on your system.
 
 ## Available Scripts
 
